@@ -1,2 +1,5 @@
-server:
-  port: 9400
+mysql:
+  user: renanquan
+
+person:
+  name: lvxiaoli
